@@ -1,1 +1,1 @@
-# Mugi - The Cutest Bittorrent Client. 
+# Mugi - Your Swift, Lightweight and agile torrent client
